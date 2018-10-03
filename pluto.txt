@@ -1,1 +1,2 @@
 this is the smalled planet
+this planet now has 2 lines
