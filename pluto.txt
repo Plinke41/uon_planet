@@ -2,3 +2,5 @@ this is the smalled planet
 this planet now has 2 lines
 Pluto should not be a planet.
 it is too small
+
+Some scientists don't even agree. Should we?
